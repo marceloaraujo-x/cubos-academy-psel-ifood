@@ -1,5 +1,4 @@
 function solucao(tempo, distancia) {
-	//seu codigo aqui
     if(tempo < 5) {
         console.log("600")
     } else {

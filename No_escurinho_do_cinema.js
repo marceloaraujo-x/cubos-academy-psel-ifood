@@ -1,5 +1,4 @@
-function solucao(obj) {
-	//seu codigo aqui
+function solucao(obj) { 
     if(obj.temIngresso === true){
        if(obj.idade >= obj.censura || obj.estaComPais === true) {
           if(obj.temCarteirinha === true || obj.idade < 18) {

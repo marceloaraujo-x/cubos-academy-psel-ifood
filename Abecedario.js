@@ -1,5 +1,4 @@
 function solucao(letra, palavras) {
-	//seu codigo aqui
     const resultado = [];
     
     for(let item of palavras) {

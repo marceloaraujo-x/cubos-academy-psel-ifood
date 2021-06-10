@@ -1,5 +1,4 @@
 function solucao(joao, andre) {
-    // Escreva seu codigo aqui
   if(joao === andre) {
   console.log("EMPATE")
 } else {
